@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/[https://github.com/timjtchang/timjtchang.github.io](https://github.com/timjtchang/timjtchang.github.io)/static/css/main.a5549a06.css",
+    "main.js": "/[https://github.com/timjtchang/timjtchang.github.io](https://github.com/timjtchang/timjtchang.github.io)/static/js/main.4b6958ec.js",
+    "static/js/453.3def8919.chunk.js": "/[https://github.com/timjtchang/timjtchang.github.io](https://github.com/timjtchang/timjtchang.github.io)/static/js/453.3def8919.chunk.js",
+    "index.html": "/[https://github.com/timjtchang/timjtchang.github.io](https://github.com/timjtchang/timjtchang.github.io)/index.html",
+    "main.a5549a06.css.map": "/[https://github.com/timjtchang/timjtchang.github.io](https://github.com/timjtchang/timjtchang.github.io)/static/css/main.a5549a06.css.map",
+    "main.4b6958ec.js.map": "/[https://github.com/timjtchang/timjtchang.github.io](https://github.com/timjtchang/timjtchang.github.io)/static/js/main.4b6958ec.js.map",
+    "453.3def8919.chunk.js.map": "/[https://github.com/timjtchang/timjtchang.github.io](https://github.com/timjtchang/timjtchang.github.io)/static/js/453.3def8919.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5549a06.css",
+    "static/js/main.4b6958ec.js"
+  ]
+}
