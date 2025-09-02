@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/[https://timjtchang.github.io/](https://timjtchang.github.io/)/static/css/main.a5549a06.css",
-    "main.js": "/[https://timjtchang.github.io/](https://timjtchang.github.io/)/static/js/main.01e08c6c.js",
-    "static/js/453.3def8919.chunk.js": "/[https://timjtchang.github.io/](https://timjtchang.github.io/)/static/js/453.3def8919.chunk.js",
-    "index.html": "/[https://timjtchang.github.io/](https://timjtchang.github.io/)/index.html",
-    "main.a5549a06.css.map": "/[https://timjtchang.github.io/](https://timjtchang.github.io/)/static/css/main.a5549a06.css.map",
-    "main.01e08c6c.js.map": "/[https://timjtchang.github.io/](https://timjtchang.github.io/)/static/js/main.01e08c6c.js.map",
-    "453.3def8919.chunk.js.map": "/[https://timjtchang.github.io/](https://timjtchang.github.io/)/static/js/453.3def8919.chunk.js.map"
+    "main.css": "/[https://timjtchang.github.io/timjtchang.github.io](https://timjtchang.github.io/timjtchang.github.io)/static/css/main.a5549a06.css",
+    "main.js": "/[https://timjtchang.github.io/timjtchang.github.io](https://timjtchang.github.io/timjtchang.github.io)/static/js/main.8ba6e60d.js",
+    "static/js/453.3def8919.chunk.js": "/[https://timjtchang.github.io/timjtchang.github.io](https://timjtchang.github.io/timjtchang.github.io)/static/js/453.3def8919.chunk.js",
+    "index.html": "/[https://timjtchang.github.io/timjtchang.github.io](https://timjtchang.github.io/timjtchang.github.io)/index.html",
+    "main.a5549a06.css.map": "/[https://timjtchang.github.io/timjtchang.github.io](https://timjtchang.github.io/timjtchang.github.io)/static/css/main.a5549a06.css.map",
+    "main.8ba6e60d.js.map": "/[https://timjtchang.github.io/timjtchang.github.io](https://timjtchang.github.io/timjtchang.github.io)/static/js/main.8ba6e60d.js.map",
+    "453.3def8919.chunk.js.map": "/[https://timjtchang.github.io/timjtchang.github.io](https://timjtchang.github.io/timjtchang.github.io)/static/js/453.3def8919.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5549a06.css",
-    "static/js/main.01e08c6c.js"
+    "static/js/main.8ba6e60d.js"
   ]
 }
